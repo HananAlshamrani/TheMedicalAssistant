@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683009726035",
+    "project_id": "the-medical-assistant",
+    "storage_bucket": "the-medical-assistant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683009726035:android:3d491d09766100202f98a6",
+        "android_client_info": {
+          "package_name": "com.example.themedicalassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683009726035-v20cfdr6oogr7kg9aob19pu0hhkchldk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDA0RnDKX5w3uyn3w1BdvynTvXSwnZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683009726035-v20cfdr6oogr7kg9aob19pu0hhkchldk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
